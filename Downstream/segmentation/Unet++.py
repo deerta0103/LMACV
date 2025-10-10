@@ -1,3 +1,5 @@
+###readme:https://blog.csdn.net/wsLJQian/article/details/124196453 请提前参考，mask是肿瘤的标签，unet重复四次一个模态再拼接一起
+
 import os
 import cv2
 import numpy as np
@@ -211,4 +213,5 @@ if __name__ == '__main__':
         image_path='H:/DaBaiCai/yuanshisigexulie/shaoxuan/LMVA/5.png',
         model_path='multiclass_unet2_epochlvmv_319.pth',
         save_path='./results/105_mask.png'
+
     )
