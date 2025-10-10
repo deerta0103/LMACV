@@ -3,7 +3,7 @@
 
 
 
-## This is the official implementation of the MATR model proposed in the paper (LMACV) with Pytorch.
+## This is the official implementation of the LMACV model proposed in the paper with Pytorch.
 
 
 
