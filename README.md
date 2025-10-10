@@ -63,7 +63,7 @@ Cite the paper：
 
 
 # #  Acknowledgment
-This project is based on Mamba ([code](https://github.com/MzeroMiko/VMamba)), MPCT ([code](https://github.com/wangzi487794504/Image-fusion)), MACTFusion([code](https://github.com/millieXie/MACTFusion)) thanks for their excellent works.
+This project is based on Mamba ([code](https://github.com/MzeroMiko/VMamba)), MPCT ([code](https://github.com/wangzi487794504/Image-fusion))  thanks for their excellent works.
 
 
 
