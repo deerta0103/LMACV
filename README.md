@@ -22,8 +22,8 @@
 
 
 
--- conda create -n vmamba python=3.8
--- conda activate vmamba
+conda create -n vmamba python=3.8;  
+conda activate vmamba;  
 pip install torch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 --extra-index-url https://download.pytorch.org/whl/cu117;
 pip install packaging;
 pip install timm==0.4.12;
@@ -46,12 +46,24 @@ Dataset  is  [here](https://www.med.harvard.edu/AANLIB/home.html)
 
 The code for evaluation metrics is [here](https://github.com/liuuuuu777/ImageFusion-Evaluation) 
 
+Downstream: 
+segmentation: https://blog.csdn.net/wsLJQian/article/details/124196453 请提前参考，mask是肿瘤的标签 
+detection :  YOLOv8s
+
+
 #  
 Cite the paper：
 
 
+
+
+
+
+
+
+
 # #  Acknowledgment
-This project is based on Mamba ([code](https://github.com/MzeroMiko/VMamba), MPCT ([code](https://github.com/wangzi487794504/Image-fusion), MACTFusion([code](https://github.com/millieXie/MACTFusion)) thanks for their excellent works.
+This project is based on Mamba ([code])(https://github.com/MzeroMiko/VMamba), MPCT ([code])(https://github.com/wangzi487794504/Image-fusion), MACTFusion([code])(https://github.com/millieXie/MACTFusion)) thanks for their excellent works.
 
 
 
