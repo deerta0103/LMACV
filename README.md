@@ -1,13 +1,14 @@
 # LMACV: A Lightweight Multiscale ACmix–VMamba Framework for Efficient Multimodal Medical Image Fusion (Neurocomputing)
 
+This repository provides the **environment configuration**, **usage instructions**, and **supplementary materials** related to the paper.
+  
+## Note on Code Availability  
+The core implementation of the LMACV framework is **temporarily unavailable** because the method is currently under **patent application**.  
+In accordance with patent protection requirements, the full source code cannot be released at this stage.
 
+Once the intellectual property process is complete, the publicly shareable part of the code (if permitted) will be updated here.
 
-
-## This is the official implementation of the LMACV model proposed in the paper with Pytorch.
-
-
-
-
+---
 
 ## Requirements：
 
@@ -53,13 +54,7 @@ detection :  YOLOv8s
 
 #  
 Cite the paper：
-
-
-
-
-
-
-
+If you find our work useful, please cite our paper
 
 
 # #  Acknowledgment
